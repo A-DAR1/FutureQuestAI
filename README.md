@@ -4,9 +4,7 @@
 
 <h1 align="center">FutureQuest AI</h1>
 
-<p align="center">
-  From career confusion to a college-ready profile—safely.
-</p>
+
 
 <p align="center">
   Expo 54 · React Native 0.81 · TypeScript 5.9
