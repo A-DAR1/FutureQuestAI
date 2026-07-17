@@ -10,9 +10,9 @@
   Expo 54 · React Native 0.81 · TypeScript 5.9
 </p>
 
-This is a mobile product prototype I made for Indian students in Classes 8–12. It turns career uncertainty into a practical loop: discover interests, try real-world quests, reflect with an AI companion, share progress with parents, and build evidence of growth. I have not added any llm to it yet, though I may consider doing that if I consider working on this again
+This is a mobile product prototype I made for Indian students in Classes 8–12. It turns career uncertainty into a practical loop: discover interests, try real-world quests, reflect with an AI companion, share progress with parents, and build evidence of growth. I have not added any llm to it yet, though I may consider doing that if I start working on this again.
 
-This repository contains the original working prototype source, the final revised pitch deck, the assignment brief, a demo video, and the Android APK. For the coding I have mainly used Codex, though the idea, flow, and implementation is all made by me.
+This repository contains the original working prototype source, the final revised pitch deck, a demo video, and the Android APK. For the coding I have mainly used Codex, though the idea, flow, and implementation is all made by me.
 
 ## Project materials
 
